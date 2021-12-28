@@ -1,3 +1,3 @@
 # opencv_exercise
 
-practcie opencv2
+practice opencv2
